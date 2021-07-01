@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... a web-based terminal using SocketIO and PTY
 - 🌱 I’m currently learning ... AWS for hosting fullstack applications
 - 😄 Pronouns: ... he/him/his
-- ⚡ Fun fact: ... I have a gaming computer and a gaming monitor... but don't game
+- ⚡ Fun fact: ... I have a gaming laptop and a gaming monitor... but don't game
 - 💬 Ask me about ... smartphones
 
 ---
