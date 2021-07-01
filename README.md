@@ -6,6 +6,8 @@
 - ⚡ Fun fact: ... I have a gaming computer and a gaming monitor... but don't game
 - 💬 Ask me about ... smartphones
 
+---
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=krushilnaik&count_private=true&show_icons=true&hide=prs&include_all_commits=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushilnaik&hide=TeX&theme=dracula)
 
