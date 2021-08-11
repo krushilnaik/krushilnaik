@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... GraphQL
+- 🌱 I’m currently learning ... NestJS
 - 😄 Pronouns: ... he/him/his
 - ⚡ Fun fact: ... I have a gaming laptop and a gaming monitor... but don't game
 - 💬 Ask me about ... smartphones
