@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning ... Contentful Headless CMS
 - 😄 Pronouns: ... he/him/his
 - ⚡ Fun fact: ... I have a gaming laptop and a gaming monitor... but don't game
 - 💬 Ask me about ... smartphones
