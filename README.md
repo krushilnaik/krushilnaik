@@ -13,9 +13,7 @@
 
 ---
 
-<a>
-	<img src="https://activity-graph.herokuapp.com/graph?username=krushilnaik&bg_color=1F222E&color=ffaaaa&line=F85D7F&point=FFFFFF" />
-</a>
+![Commit graph](https://activity-graph.herokuapp.com/graph?username=krushilnaik&bg_color=1F222E&color=ffaaaa&line=F85D7F&point=FFFFFF)
 
 <!--
 **krushilnaik/krushilnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
