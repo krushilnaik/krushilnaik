@@ -1,4 +1,7 @@
-### Hi there 👋
+<h3 align="center">
+  Welcome to my (Krushil's) profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 -  🔭 I’m currently working on ...
 -  🌱 I’m currently learning ... Contentful Headless CMS
