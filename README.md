@@ -25,7 +25,6 @@
 	<img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 	<img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 	<img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-
 </h3>
 
 ---
@@ -42,11 +41,10 @@
 	<img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 	<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 	<img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-	<img alt="Redux" src="	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+	<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 	<img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 	<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 	<img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-	<img alt="" src="">
 </h3>
 
 ---
