@@ -8,14 +8,6 @@
 
 ---
 
--  🔭 I’m currently working on ...
--  🌱 I’m currently learning ... Contentful Headless CMS
--  😄 Pronouns: ... he/him/his
--  ⚡ Fun fact: ... I have a gaming laptop and a gaming monitor... but don't game
--  💬 Ask me about ... smartphones
-
----
-
 <h2 align="center">My tech stack:</h2>
 
 <h3 align="center">
@@ -61,7 +53,11 @@
 **krushilnaik/krushilnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-  🔭 I’m currently working on ...
+-  🌱 I’m currently learning ...
+-  😄 Pronouns: ... he/him/his
+-  ⚡ Fun fact: ... 
+-  💬 Ask me about ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
