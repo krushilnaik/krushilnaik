@@ -51,6 +51,11 @@
 
 ![Commit graph](https://activity-graph.herokuapp.com/graph?username=krushilnaik&bg_color=1F222E&color=ffaaaa&line=F85D7F&point=FFFFFF)
 
+<h2 align="center">
+	Projects I'm proud of
+	<div>↓</div>
+</h2>
+
 <!--
 **krushilnaik/krushilnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
