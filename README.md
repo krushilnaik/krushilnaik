@@ -15,7 +15,6 @@
 	<img alt="NextJS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
 	<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 	<img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-	<img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 </h3>
 
 ---
@@ -24,6 +23,7 @@
 <h3 align="center">
 	<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 	<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+	<img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 	<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 	<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 	<img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
