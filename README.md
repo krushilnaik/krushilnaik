@@ -41,6 +41,7 @@
 	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 	<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 	<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=#029ded" />
 </h3>
 
 ---
