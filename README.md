@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">My tech stack:</h2>
+<h2 align="center">My tech stack</h2>
 
 <h3 align="center">
 	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -49,6 +49,7 @@
 <h3 align="center">
 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 	<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </h3>
 
 <h3 align="center">Miscellaneous</h3>
