@@ -32,7 +32,7 @@
 
 </h3>
 
-<h3 align="center">Frameworks</h3>
+<h3 align="center">Frameworks/Libraries</h3>
 <h3 align="center">
 	<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 	<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
