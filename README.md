@@ -1,12 +1,11 @@
 <h2 align="center">
-  Hey!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-  The name's Krushil. (pronounced 'crucial')
+	Hey!
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+	The name's Krushil. (pronounced 'crucial')
+	<br/>
+	<br/>
+	Welcome to my GitHub!
 </h2>
-
-<h3 align="center">Welcome to my GitHub!</h3>
-
----
 
 <h2 align="center">My tech stack</h2>
 
