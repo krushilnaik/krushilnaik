@@ -70,7 +70,8 @@
 ---
 
 <h3 align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=krushilnaik&count_private=true&show_icons=true&hide=prs&include_all_commits=true&theme=dracula" />
+	<img src="https://github-readme-stats.vercel.app/apiusername=krushilnaik&count_private=true&show_icons=true&hide=prs&include_all_commits=true&theme=dracula" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushilnaik&theme=darcula" />
 </h3>
 
 ---
