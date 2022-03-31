@@ -75,10 +75,6 @@
 
 ---
 
-<h3 align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=krushilnaik&bg_color=1F222E&color=ffaaaa&line=F85D7F&point=FFFFFF" />
-</h3>
-
 <h2 align="center">
 	Projects I'm proud of
 	<div>↓</div>
