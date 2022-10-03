@@ -44,15 +44,10 @@
 <h2 align="center">Plan to Learn</h2>
 
 <h3 align="center">
-	<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&amp;logo=ruby&amp;logoColor=white" alt="Ruby">
-	<img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&amp;logo=ruby-on-rails&amp;logoColor=white" alt="Rails">
+	<img src="https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&amp;logo=ruby-on-rails&amp;logoColor=white" alt="Ruby on Rails">
 	<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust">
 	<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go">
 	<img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&amp;logo=nuxtdotjs&amp;logoColor=#00DC82" alt="Nuxtjs">
-	<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS">
-	<img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&amp;logo=rabbitmq&amp;logoColor=white" alt="RabbitMQ">
-	<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring">
-	<img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&amp;logo=svelte&amp;logoColor=white" alt="Svelte">
 	<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
 	<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
 </h3>
