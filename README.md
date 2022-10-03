@@ -91,7 +91,6 @@
 	<img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 	<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&amp;logo=mui&amp;logoColor=white" alt="MUI">
 	<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite">
-	<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel">
 	<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&amp;logo=webpack&amp;logoColor=black" alt="Webpack">
 </h3>
 
