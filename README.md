@@ -7,8 +7,6 @@
 	Welcome to my GitHub!
 </h2>
 
----
-
 <h2 align="center">
 	My tech
 </h2>
