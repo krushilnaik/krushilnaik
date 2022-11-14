@@ -32,7 +32,6 @@
 <h2 align="center">Learning</h2>
 
 <h3 align="center">
-	<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D" alt="Vue.js">
 	<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform">
 </h3>
 
@@ -45,6 +44,7 @@
 	<img src="https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&amp;logo=ruby-on-rails&amp;logoColor=white" alt="Ruby on Rails">
 	<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust">
 	<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go">
+	<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D" alt="Vue.js">
 	<img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&amp;logo=nuxtdotjs&amp;logoColor=#00DC82" alt="Nuxtjs">
 	<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
 	<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
@@ -121,6 +121,7 @@
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman">
 	<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&amp;logo=insomnia&amp;logoColor=5849BE" alt="Insomnia">
 	<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&amp;logo=Apache%20Maven&amp;logoColor=white" alt="Apache Maven">
+	<img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&amp;logo=vagrant&amp;logoColor=white" alt="Vagrant">
 </h3>
 
 
