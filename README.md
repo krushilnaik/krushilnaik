@@ -33,6 +33,7 @@
 
 <h3 align="center">
 	<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform">
+	<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
 </h3>
 
 
@@ -46,7 +47,6 @@
 	<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go">
 	<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D" alt="Vue.js">
 	<img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&amp;logo=nuxtdotjs&amp;logoColor=#00DC82" alt="Nuxtjs">
-	<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
 	<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
 </h3>
 
