@@ -123,6 +123,7 @@
 	<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&amp;logo=Apache%20Maven&amp;logoColor=white" alt="Apache Maven">
 	<img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&amp;logo=vagrant&amp;logoColor=white" alt="Vagrant">
 	<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
+	<img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&amp;logo=glitch&amp;logoColor=white" alt="Glitch">
 </h3>
 
 
