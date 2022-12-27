@@ -33,7 +33,8 @@
 
 <h3 align="center">
 	<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform">
-	<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
+	<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins">
+	<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS">
 </h3>
 
 
@@ -121,6 +122,7 @@
 	<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&amp;logo=insomnia&amp;logoColor=5849BE" alt="Insomnia">
 	<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&amp;logo=Apache%20Maven&amp;logoColor=white" alt="Apache Maven">
 	<img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&amp;logo=vagrant&amp;logoColor=white" alt="Vagrant">
+	<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
 </h3>
 
 
