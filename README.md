@@ -109,29 +109,30 @@
 <h3 align="center">
 	<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 	<img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-	<img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 	<img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-	<img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=#029ded" />
 	<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&amp;logo=gimp&amp;logoColor=FFFFFF" alt="Gimp Gnu Image Manipulation Program">
 	<img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&amp;logo=yarn&amp;logoColor=white" alt="Yarn">
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman">
 	<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&amp;logo=insomnia&amp;logoColor=5849BE" alt="Insomnia">
 	<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&amp;logo=Apache%20Maven&amp;logoColor=white" alt="Apache Maven">
 	<img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&amp;logo=vagrant&amp;logoColor=white" alt="Vagrant">
-	<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
-	<img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&amp;logo=glitch&amp;logoColor=white" alt="Glitch">
+	<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Grafana">
+	<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&amp;logo=elasticsearch" alt="ElasticSearch">
+	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;logo=Prometheus&amp;logoColor=white" alt="Prometheus">
+</h3>
+
+<h3 align="center">DevOps</h3>
+
+<h3 align="center">
+	<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes">
+	<img src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&amp;logo=packer&amp;logoColor=%2302A8EF" alt="Packer">
 	<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform">
 	<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins">
 	<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS">
 	<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&amp;logo=ansible&amp;logoColor=white" alt="Ansible">
-	<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Grafana">
-	<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&amp;logo=elasticsearch" alt="ElasticSearch">
-	<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes">
-	<img src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&amp;logo=packer&amp;logoColor=%2302A8EF" alt="Packer">
-	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;logo=Prometheus&amp;logoColor=white" alt="Prometheus">
-	
+	<img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+	<img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=#029ded" />
 </h3>
-
 
 ---
 
