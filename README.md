@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="center">My tech stack</h2>
+<!-- <h2 align="center">My tech stack</h2>
 
 <h3 align="center">
 	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -27,15 +27,11 @@
 	<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </h3>
 
----
+--- -->
 
 <h2 align="center">Learning</h2>
 
-<h3 align="center">
-	<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform">
-	<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins">
-	<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS">
-</h3>
+<h3 align="center"></h3>
 
 
 ---
@@ -124,6 +120,16 @@
 	<img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&amp;logo=vagrant&amp;logoColor=white" alt="Vagrant">
 	<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
 	<img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&amp;logo=glitch&amp;logoColor=white" alt="Glitch">
+	<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform">
+	<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins">
+	<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS">
+	<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&amp;logo=ansible&amp;logoColor=white" alt="Ansible">
+	<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Grafana">
+	<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&amp;logo=elasticsearch" alt="ElasticSearch">
+	<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes">
+	<img src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&amp;logo=packer&amp;logoColor=%2302A8EF" alt="Packer">
+	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;logo=Prometheus&amp;logoColor=white" alt="Prometheus">
+	
 </h3>
 
 
